@@ -1,0 +1,1 @@
+즉각 호출 패턴 - https://programmingsummaries.tistory.com/353
